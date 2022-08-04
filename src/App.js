@@ -14,6 +14,7 @@ const Shop = () => {
 }
 
 const App = () => {
+	
 	return(
 		<Routes>
 			<Route path="/" element={ <Navigation />} >
