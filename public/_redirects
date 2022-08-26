@@ -1,0 +1,2 @@
+# Redireacts from what the browser requests to what we serve
+/* /index.html 200
